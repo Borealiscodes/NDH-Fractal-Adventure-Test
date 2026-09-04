@@ -1,4 +1,3 @@
-
 ## ⭐ Harmony Keeper Overlay Explainer v1.0  
 ### *A gentle Bill‑Nye‑Tile explainer of the Fun‑Safe Rendering Overlay*
 
